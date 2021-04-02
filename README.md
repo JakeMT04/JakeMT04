@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋, I'm Jake
 
+- 🔭 I’m currently working on **random projects**
+- 🌱 I’m currently learning PHP (Laravel)
+- 💬 My projects list is [on my website](https://jakemt04.xyz/projects)
+- 📫 You can reach me [here](https://jakemt04.xyz/contact)
+- 😄 Pronouns: he/him
+
+**Disclaimer:** My GitHub profile and organisation are solely read-only mirrors of my main git server. I self-host a gitea server for all of my main code projects. I also don't open source a lot of it.
 <!--
 **JakeMT04/JakeMT04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
