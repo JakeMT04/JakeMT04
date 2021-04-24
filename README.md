@@ -6,7 +6,8 @@
 - 📫 You can reach me [here](https://jakemt04.xyz/contact)
 - 😄 Pronouns: he/him
 
-**Disclaimer:** My GitHub profile and organisation are solely read-only mirrors of my main git server. I self-host a gitea server for all of my main code projects. I also don't open source a lot of it.
+Most of the things I work on are private, so you won't really be able to see much here
+
 <!--
 **JakeMT04/JakeMT04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
