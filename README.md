@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jake
 
-- 🔭 I’m currently working on **the Venade Network** (I'll put a link here when it actually has a website)
+- 🔭 I’m currently working on [the Cylone Network](https://cylonemc.net)
 - 💬 My projects list is [on my website](https://jakemt04.xyz/projects)
 - 📫 You can reach me [here](https://jakemt04.xyz/contact)
 - 😄 Pronouns: he/him
