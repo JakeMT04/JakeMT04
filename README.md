@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Jake
 
-- 🔭 I’m currently working on [the Cylone Network](https://cylonemc.net)
-- 💬 My projects list is [on my website](https://jakemt04.xyz/projects)
-- 📫 You can reach me [here](https://jakemt04.xyz/contact)
+- 💼 I work full time as an IT Engineer for an MSP.
+- 🔭 I'm also a Freelance Software Developer and System Admin, currently working at [CyloneMC](https://cylonemc.net) ([GitHub](https://github.com/CyloneMC))
+- 💬 My stuff can be found through my org, [Zero Width Space](https://zerowidthspace.com) ([GitHub](https://github.com/ZWDSdev))
+- 📫 You can reach me by jake@zwds.dev or my team at hello@zwds.dev
 - 😄 Pronouns: he/him
 
 Most of the things I work on are private, so you won't really be able to see much here
