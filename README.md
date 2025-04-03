@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Jake
 
 - 💼 I work full time as an IT Engineer for an MSP.
-- 🔭 I'm also a Freelance Software Developer and System Admin, currently working at [CyloneMC](https://cylonemc.net) ([GitHub](https://github.com/CyloneMC))
+- 🔭 I'm also a Freelance Software Developer and System Admin, currently working at [CyloneMC](https://cylonemc.net) ([GitHub](https://github.com/CyloneMC)) and [Hollow Cube](https://hollowcube.net) ([GitHub](https://github.com/hollow-cube))
 - 💬 My stuff can be found through my org, [Zero Width Space](https://zerowidthspace.com) ([GitHub](https://github.com/ZWDSdev))
-- 📫 You can reach me at jake@zwds.dev or my team at hello@zwds.dev
+- 📫 You can reach me at jake@zerowidthspace.com
 - 😄 Pronouns: he/him
 
 Most of the things I work on are private, so you won't really be able to see much here
