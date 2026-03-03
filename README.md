@@ -2,7 +2,6 @@
 
 - 💼 I work full time as an IT Engineer for an MSP.
 - 🔭 I'm also a Freelance Software Developer and System Admin, currently working at [CyloneMC](https://cylonemc.net) ([GitHub](https://github.com/CyloneMC)) and [Hollow Cube](https://hollowcube.net) ([GitHub](https://github.com/hollow-cube))
-- 💬 My stuff can be found through my org, [Zero Width Space](https://zerowidthspace.com) ([GitHub](https://github.com/ZWDSdev))
 - 📫 You can reach me at jake@zerowidthspace.com
 - 😄 Pronouns: he/him
 
